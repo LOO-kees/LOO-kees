@@ -8,7 +8,7 @@
 
 //목록 ------------------------------
 
-//1.순서없는 목록(*,+,-)
+//1. 순서없는 목록(*,+,-)
 * 순서없는 목록
   + 하위목록
   + 하위목록
@@ -16,7 +16,7 @@
   + 하위목록
   + 하위목록
 
-//2.순서있는 목록(숫자)
+//2. 순서있는 목록(숫자)
 1. 순서있는 목록
 2. 순서있는 목록
 3. 순서있는 목록
@@ -27,26 +27,26 @@
 > blockQuote 애플 창업자 스티브잡스 
 >> blockQuote "우리의 실패는 경럼으로 부터 강해졌다."
 
-//수평선 3가지 방법 ***,---, <hr />
+//3. 수평선 3가지 방법 ***,---, <hr />
 ***
 ----
 <hr />
 
-//강조(*,_)
+//4. 강조(*,_)
 *이텔릭체*
 **볼드체**
 ***이텔릭, 볼드***
 ~~취소선~~
 
-//띄워쓰기 (공백) - &nbsp;
+//5. 띄워쓰기 (공백) - &nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-//줄바꿈 (br, p)
+//6. 줄바꿈 (br, p)
 줄을 강제로 바꾸고자 할 떄는 <br>태그를 사용합니다.
 문단 태그 <p>문단태그</p>를 사용해도 됩니다.
 
-//링크 (Link)<br>
+//7. 링크 (Link)<br>
 Link1 : [닷홈](http://kokoroko.dothome.co.kr, '닷홈으로 바로가기')<br>
 Link2 : <a href="http://kokoroko.dothome.co.kr" target="_blank" title="닷홈 바로가기" >닷홈</a><br>
 Link3 : <tkrkfkeo@naver.com> <br>
@@ -60,3 +60,23 @@ Link4 : <http://www.naver.com> <br>
 ![top logo[]()](https://harimpetfood.com/SkinImg/top_logo.gif)<br>
 <img src="https://harimpetfood.com/SkinImg/top_logo.gif">
 
+//10. 테이블 삽입
+Title|Title2
+-|-
+content1|content2
+content3|content4
+
+<table>
+ <theade>
+   <tr><th>셀제목</th><th>셀제목</th></tr>
+ </theade>
+ <tbody>
+   <tr><td>셀내용</td><td>셀내용</td></tr>
+   <tr><td>셀내용</td><td>셀내용</td></tr>
+ </tbody>
+
+</table>
+
+
+
+ 
