@@ -38,9 +38,9 @@
 ***이텔릭, 볼드***
 ~~취소선~~
 
-//띄워쓰기 (공백) - &npsp;
-&npsp;&npsp;&npsp;&npsp;&npsp;&npsp;
-&npsp;&npsp;&npsp;&npsp;&npsp;&npsp;&npsp;&npsp;&npsp;
+//띄워쓰기 (공백) - &nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 //줄바꿈 (br, p)
 줄을 강제로 바꾸고자 할 떄는 <br>태그를 사용합니다.
