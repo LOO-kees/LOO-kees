@@ -52,4 +52,11 @@ Link2 : <a href="http://kokoroko.dothome.co.kr" target="_blank" title="닷홈 �
 Link3 : <tkrkfkeo@naver.com> <br>
 Link4 : <http://www.naver.com> <br>
 
+//8. 이모티콘, 이모지 삽입 단축키 📢 윈도루 로고키 + 세미콜론(;)
+//이모지 한꺼번에 보고 찾기 - https://gist.github.com/rxaviers/7360908
+
+//9. 이미지 삽입 - !기호 사용
+![액박시 보여질 이미지명](이미지 주소)(링크주소)
+![top logo[]()](https://harimpetfood.com/SkinImg/top_logo.gif)<br>
+<img src="https://harimpetfood.com/SkinImg/top_logo.gif">
 
