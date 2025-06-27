@@ -74,7 +74,6 @@ content3|content4
    <tr><td>셀내용</td><td>셀내용</td></tr>
    <tr><td>셀내용</td><td>셀내용</td></tr>
  </tbody>
-
 </table>
 
 
