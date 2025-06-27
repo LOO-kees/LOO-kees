@@ -47,6 +47,7 @@
 문단 태그 <p>문단태그</p>를 사용해도 됩니다.
 
 //링크 (Link)
+
 Link1 : [닷홈](http://kokoroko.dothome.co.kr, '닷홈으로 바로가기')<br>
 Link2 : <a href="http://kokoroko.dothome.co.kr" target="_blank" title="닷홈 바로가기" >닷홈</a><br>
 Link3 : <tkrkfkeo@naver.com> <br>
